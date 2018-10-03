@@ -1,2 +1,2 @@
 # HoloLens-Chemistry
-Chemistry lesson
+Chemistry lesson HoloLens
